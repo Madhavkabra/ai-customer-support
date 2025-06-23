@@ -46,9 +46,9 @@ Limited context retention
 - WhatsApp integration  
 
 **Limitations:**  
-❌ Limited to Freshworks ecosystem  
-❌ Poor unstructured query handling  
-❌ Reactive rather than proactive  
+- Limited to Freshworks ecosystem  
+- Poor unstructured query handling  
+- Reactive rather than proactive  
 
 **Twig's Advantage:**  
 ✨ **Proactive support** through behavior analysis  
@@ -64,9 +64,9 @@ Limited context retention
 - FAQ handling  
 
 **Limitations:**  
-❌ Struggles with complex queries  
-❌ No organic learning  
-❌ Limited business logic integration  
+- Struggles with complex queries  
+- No organic learning  
+- Limited business logic integration  
 
 **Twig's Advantage:**  
 ✨ **Enterprise-grade intelligence**  
