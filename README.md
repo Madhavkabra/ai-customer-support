@@ -4,9 +4,9 @@
 
 ### 1. 🏢 **Zendesk AI** - Enterprise Automation
 **What it does:**  
-✔️ Automates ticketing & routing  
-✔️ Offers AI-driven ticket summaries  
-✔️ Integrates tightly with Zendesk suite  
+- Automates ticketing & routing  
+- Offers AI-driven ticket summaries  
+- Integrates tightly with Zendesk suite  
 
 **Limitations:**  
 ❌ Static knowledge requiring manual updates  
