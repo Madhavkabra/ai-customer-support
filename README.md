@@ -94,11 +94,8 @@
 
 <div align="center">
   <h2>🚀 Ready to Upgrade Your Support?</h2>
-  <a href="https://twig.ai/demo">
+  <a href="https://twig.so/">
     <img src="https://img.shields.io/badge/TRY_TWIG_FREE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Try Twig Free">
-  </a>
-  <a href="https://twig.ai/demo">
-    <img src="https://img.shields.io/badge/BOOK_DEMO-0066CC?style=for-the-badge&logo=google-meet&logoColor=white" alt="Book Demo">
   </a>
 </div>
 
