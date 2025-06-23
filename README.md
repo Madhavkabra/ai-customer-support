@@ -2,35 +2,35 @@
 
 ## 🔍 Competitive Analysis: Twig vs. Industry Leaders
 
-### 1. 🏢 **Zendesk AI** - Enterprise Automation
+### 1. **Zendesk AI** - Enterprise Automation
 **What it does:**  
 - Automates ticketing & routing  
 - Offers AI-driven ticket summaries  
 - Integrates tightly with Zendesk suite  
 
 **Limitations:**  
-❌ Static knowledge requiring manual updates  
-❌ Struggles with nuanced conversations  
-❌ Lacks real-time learning  
+- Static knowledge requiring manual updates  
+- Struggles with nuanced conversations  
+- Lacks real-time learning  
 
 **Twig's Advantage:**  
-✨ **Continuous learning** from interactions  
-✨ **Full conversation history** retention  
-✨ **Autonomous resolution** (not just routing)  
-✨ **Cross-platform integration** beyond Zendesk  
+- **Continuous learning** from interactions  
+- **Full conversation history** retention  
+- **Autonomous resolution** (not just routing)  
+- **Cross-platform integration** beyond Zendesk  
 
 ---
 
-### 2. 🤖 **Intercom Fin AI** - Conversational Automation
+### 2. **Intercom Fin AI** - Conversational Automation
 **What it does:**  
 - 57% auto-resolution rate  
 - Works across multiple channels  
 - Basic triaging capabilities  
 
 **Limitations:**  
-❌ Confined to scripted workflows  
-❌ No deep learning from past interactions  
-❌ Limited context retention  
+Confined to scripted workflows  
+No deep learning from past interactions  
+Limited context retention  
 
 **Twig's Advantage:**  
 ✨ **Dynamic adaptation** to customer needs  
@@ -39,7 +39,7 @@
 
 ---
 
-### 3. 🛠️ **Freshdesk Freddy AI** - Basic Automation
+### 3. 🛠**Freshdesk Freddy AI** - Basic Automation
 **What it does:**  
 - Automated responses & routing  
 - Sentiment analysis  
@@ -110,20 +110,20 @@ Your customers deserve better, faster, smarter support — and Twig delivers exa
 
 ---
 
-## 🚀 What is Twig?
+## What is Twig?
 
 Twig is a next-generation AI support system that goes beyond basic bots and scripts. It understands context, retains memory, learns in real-time, and delivers branded, human-like support to your users 24/7.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 👉 **Try it on [https://twig.so](https://twig.so)**  
 No credit card required. See Twig in action with your own data.
 
 ---
 
-## 📦 How It Works
+## How It Works
 
 1. **Sign up** at [https://twig.so](https://twig.so)
 2. **Upload** your FAQs, help articles, and past tickets
@@ -133,7 +133,7 @@ No credit card required. See Twig in action with your own data.
 
 ---
 
-## 📊 Dashboard & Analytics
+## Dashboard & Analytics
 
 - Support Volume Insights  
 - Resolution Time Tracking  
@@ -143,17 +143,17 @@ No credit card required. See Twig in action with your own data.
 
 ---
 
-## 💡 Why Choose Twig?
+## Why Choose Twig?
 
-- ✅ Learns from every interaction  
-- ✅ Remembers your customers and their needs  
-- ✅ Scales your support without scaling your team  
-- ✅ Reduces support costs by 50–80%  
-- ✅ Improves CSAT scores within weeks
+- Learns from every interaction  
+- Remembers your customers and their needs  
+- Scales your support without scaling your team  
+- Reduces support costs by 50–80%  
+- Improves CSAT scores within weeks
 
 ---
 
-## 📞 Support
+## Support
 
 For help, questions, or integration support, contact the Twig team:
 
@@ -163,7 +163,7 @@ For help, questions, or integration support, contact the Twig team:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Twig is a proprietary platform and not open-source at this time. If you have feature requests or feedback, feel free to open an issue or contact us directly.
 
@@ -171,13 +171,13 @@ Twig is a proprietary platform and not open-source at this time. If you have fea
 
 ## 🔗 Useful Links
 
-- 🌐 Website: [https://twig.so](https://twig.so)  
-- 📄 Docs: Coming soon  
-- 📣 Blog: [https://twig.so/blog](https://twig.so/blog)  
+- Website: [https://twig.so](https://twig.so)  
+- Docs: Coming soon  
+- Blog: [https://twig.so/blog](https://twig.so/blog)  
 
 ---
 
-## 💬 Final Thoughts
+## Final Thoughts
 
 Twig isn’t just another chatbot. It’s a truly autonomous, intelligent customer support system that scales with your business, delivers consistent quality, and enhances the customer experience — without the overhead of managing agents or flows.
 
