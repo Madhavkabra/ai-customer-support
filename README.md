@@ -23,9 +23,9 @@
 
 ### 2. 🤖 **Intercom Fin AI** - Conversational Automation
 **What it does:**  
-✔️ 57% auto-resolution rate  
-✔️ Works across multiple channels  
-✔️ Basic triaging capabilities  
+- 57% auto-resolution rate  
+- Works across multiple channels  
+- Basic triaging capabilities  
 
 **Limitations:**  
 ❌ Confined to scripted workflows  
@@ -41,9 +41,9 @@
 
 ### 3. 🛠️ **Freshdesk Freddy AI** - Basic Automation
 **What it does:**  
-✔️ Automated responses & routing  
-✔️ Sentiment analysis  
-✔️ WhatsApp integration  
+- Automated responses & routing  
+- Sentiment analysis  
+- WhatsApp integration  
 
 **Limitations:**  
 ❌ Limited to Freshworks ecosystem  
@@ -59,9 +59,9 @@
 
 ### 4. 🧩 **Ada** - No-Code Chatbot
 **What it does:**  
-✔️ No-code chatbot builder  
-✔️ Multilingual support  
-✔️ FAQ handling  
+- No-code chatbot builder  
+- Multilingual support  
+- FAQ handling  
 
 **Limitations:**  
 ❌ Struggles with complex queries  
