@@ -104,3 +104,91 @@
 
 > "Twig reduced our support tickets by 65% while improving CSAT scores by 22%."  
 > — Sarah K., Director of CX at TechCorp
+
+
+[![Website](https://img.shields.io/badge/Visit-Twig.so-green)](https://twig.so)  
+Your customers deserve better, faster, smarter support — and Twig delivers exactly that.
+
+**Twig** is an AI-powered customer support platform that resolves issues autonomously using advanced large language models (LLMs). It integrates with your systems, learns from your documentation, and scales support across every channel — without human intervention.
+
+---
+
+## 🚀 What is Twig?
+
+Twig is a next-generation AI support system that goes beyond basic bots and scripts. It understands context, retains memory, learns in real-time, and delivers branded, human-like support to your users 24/7.
+
+---
+
+## 🌐 Live Demo
+
+👉 **Try it on [https://twig.so](https://twig.so)**  
+No credit card required. See Twig in action with your own data.
+
+---
+
+## 📦 How It Works
+
+1. **Sign up** at [https://twig.so](https://twig.so)
+2. **Upload** your FAQs, help articles, and past tickets
+3. **Integrate** with your existing tools and channels
+4. **Customize** tone, escalation paths, and behavior
+5. **Launch** – Twig is live and resolving customer queries
+
+---
+
+## 📊 Dashboard & Analytics
+
+- Support Volume Insights  
+- Resolution Time Tracking  
+- CSAT/NPS Score Monitoring  
+- AI vs. Human Load Balance  
+- Cost Savings & ROI
+
+---
+
+## 💡 Why Choose Twig?
+
+- ✅ Learns from every interaction  
+- ✅ Remembers your customers and their needs  
+- ✅ Scales your support without scaling your team  
+- ✅ Reduces support costs by 50–80%  
+- ✅ Improves CSAT scores within weeks
+
+---
+
+## 📞 Support
+
+For help, questions, or integration support, contact the Twig team:
+
+- 📧 Email: support@twig.so  
+- 🌍 Website: [https://twig.so](https://twig.so)  
+- 🛠️ Help Center: [Coming Soon]
+
+---
+
+## 🤝 Contributing
+
+Twig is a proprietary platform and not open-source at this time. If you have feature requests or feedback, feel free to open an issue or contact us directly.
+
+---
+
+## 🔗 Useful Links
+
+- 🌐 Website: [https://twig.so](https://twig.so)  
+- 📄 Docs: Coming soon  
+- 📣 Blog: [https://twig.so/blog](https://twig.so/blog)  
+
+---
+
+## 💬 Final Thoughts
+
+Twig isn’t just another chatbot. It’s a truly autonomous, intelligent customer support system that scales with your business, delivers consistent quality, and enhances the customer experience — without the overhead of managing agents or flows.
+
+---
+
+**Get started with Twig today → [https://twig.so](https://twig.so)**
+
+
+---
+
+
